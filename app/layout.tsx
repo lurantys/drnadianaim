@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-    title: "Cabinet ORL  EDr. Nadia Naim",
-    description: "Specialist ENT doctor's office in Morocco.",
+    title: "Dr Nadia Naim - Cabinet ORL El Jadida",
+    description: "Cabinet médical spécialisé en Oto-Rhino-Laryngologie (ORL) et Chirurgie Cervico-Faciale à El Jadida, Maroc.",
 };
 
 export default function RootLayout({
